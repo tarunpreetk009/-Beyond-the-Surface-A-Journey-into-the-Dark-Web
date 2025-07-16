@@ -1,13 +1,7 @@
-# -Beyond-the-Surface-A-Journey-into-the-Dark-Web
-This project was focused on enhancing dark web intelligence gathering by integrating multiple hidden search engines, validating .onion links in real-time, and providing a secure platform tailored for analysts and ethical researchers. 
-
 # Beyond the Surface: A Journey into the Dark Web
 
 A dark web OSINT (Open Source Intelligence) automation tool that enables secure and efficient extraction of actionable intelligence from onion domains.
 
-![Screenshot](https://github.com/yourusername/yourrepo/blob/main/path/to/screenshot.png)
-
----
 
 ## Project Overview
 
